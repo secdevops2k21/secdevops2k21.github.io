@@ -33,12 +33,21 @@ github_username:  jekyll
 #theme: minima
 #theme: tale
 #theme: minimal-mistakes-jekyll
-remote_theme: jekyll/minima
+#minimal_mistakes_skin: "dark"
 
+#remote_theme: jekyll/minima
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
+
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+
+  - jekyll-feed         # برای RSS
+  - jekyll-seo-tag      # برای SEO
+  - jekyll-sitemap      # تولید نقشه سایت
+  - jekyll-paginate     # صفحه‌بندی
+  - jekyll-archives     # آرشیو بر اساس تاریخ و دسته
+  - jekyll-remote-theme # برای استفاده از Remote Theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.

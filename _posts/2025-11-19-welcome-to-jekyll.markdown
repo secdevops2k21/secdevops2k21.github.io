@@ -59,19 +59,25 @@ asdsa
 
 %% asdas %%
 
-{% highlight ruby %}
-```
+
+``` c++
 #include <stdio.h>
 void main(){
+int a = 1;
+int b = 0;
+printf("test %d %d\n",a ,b);
 return l;
 }
 ```
-{% endhighlight %}
 
 
-```
+
+``` c
 #include <stdio.h>
 void main(){
+int a = 1;
+int b = 0;
+printf("test %d %d\n",a ,b);
 return l;
 }
 ```

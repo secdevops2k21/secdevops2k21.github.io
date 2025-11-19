@@ -35,19 +35,20 @@ github_username:  jekyll
 #theme: minimal-mistakes-jekyll
 #minimal_mistakes_skin: "dark"
 
-#remote_theme: jekyll/minima
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dark"
+remote_theme: jekyll/minima
+#remote_theme: "mmistakes/minimal-mistakes"
+#minimal_mistakes_skin: "dark"
 
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
-  - jekyll-feed         # برای RSS
-  - jekyll-seo-tag      # برای SEO
-  - jekyll-sitemap      # تولید نقشه سایت
-  - jekyll-paginate     # صفحه‌بندی
-  - jekyll-archives     # آرشیو بر اساس تاریخ و دسته
-  - jekyll-remote-theme # برای استفاده از Remote Theme
+  # - jekyll-feed         # برای RSS
+  # - jekyll-seo-tag      # برای SEO
+  # - jekyll-sitemap      # تولید نقشه سایت
+  # - jekyll-paginate     # صفحه‌بندی
+  # - jekyll-archives     # آرشیو بر اساس تاریخ و دسته
+  # - jekyll-remote-theme # برای استفاده از Remote Theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -68,3 +69,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+#https://stackoverflow.com/questions/70538816/use-the-dark-mode-equivalent-of-the-github-pages-default-themes
+minima:
+  skin: dark # Or auto if you want it to switch with your system settings.

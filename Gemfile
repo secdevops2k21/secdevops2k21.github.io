@@ -16,6 +16,10 @@ gem "minima", "~> 2.5"
 gem "minimal-mistakes-jekyll"
 gem "jekyll-remote-theme"
 
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
+gem "minimal-mistakes-jekyll", group: :jekyll_plugins
+
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My First Writeup"
+title: "My First Writeup 3"
 date:   2025-11-19 12:34:48 +0330
 author: "Your Name"
 categories: writeup
@@ -28,3 +28,50 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+
+This is your new *vault*.
+
+Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+
+When you're ready, delete this note and make the vault your own.
+
+|     | a   |     |
+| --- | --- | --- |
+|     |     | s   |
+$$
+la=a^2
+$$
+
+> [!asasa] Title
+> Contents
+
+
+- sdf
+1. sdfds
+2. sdf
+3. ds
+4. fds
+
+# asd
+
+asdsa
+
+%% asdas %%
+
+{% highlight ruby %}
+```
+#include <stdio.h>
+void main(){
+return l;
+}
+```
+{% endhighlight %}
+
+
+```
+#include <stdio.h>
+void main(){
+return l;
+}
+```

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My First Writeup"
-date:   2026-11-19 12:34:42 +0330
+date:   2025-11-19 12:34:48 +0330
 author: "Your Name"
 categories: writeup
 ---

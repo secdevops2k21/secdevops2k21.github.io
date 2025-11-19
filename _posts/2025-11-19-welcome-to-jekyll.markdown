@@ -120,11 +120,11 @@ return l;
 
 
 <div style="display: inline-block; font-size: 14px;">
-
+<br>
 | a | b | c |
 |---|---|---|
 | 3 | 2 | 1 |
-
+<br>
 </div>
 
 <br>

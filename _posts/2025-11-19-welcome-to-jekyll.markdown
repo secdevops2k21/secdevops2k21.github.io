@@ -95,3 +95,33 @@ void main(){
 return l;
 }
 ```
+
+
+<div style="width: fit-content;">
+
+<table>
+  <tr>
+    <th>a</th>
+    <th>b</th>
+    <th>c</th>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+</table>
+
+</div>
+
+
+
+
+
+<div style="display: inline-block; font-size: 14px;">
+
+| a | b | c |
+|---|---|---|
+| 3 | 2 | 1 |
+
+</div>

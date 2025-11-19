@@ -29,7 +29,14 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 
+Welcome
 
+---
+aliases:
+  - test
+  - test2
+  - c++
+---
 This is your new *vault*.
 
 Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
@@ -75,9 +82,6 @@ return l;
 ``` c
 #include <stdio.h>
 void main(){
-int a = 1;
-int b = 0;
-printf("test %d %d\n",a ,b);
 return l;
 }
 ```
